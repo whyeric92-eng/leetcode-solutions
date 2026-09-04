@@ -2,6 +2,8 @@
 
 A personal collection of my LeetCode solutions, organized by language. Alongside working code, I jot down notes and takeaways on the approach, edge cases, and complexity for problems I found tricky or instructive — mainly as a study log for myself, and hopefully useful to others working through the same problems.
 
+My LeetCode profile: [EricWHY](https://leetcode.com/u/EricWHY/)
+
 ## Structure
 
 ```
